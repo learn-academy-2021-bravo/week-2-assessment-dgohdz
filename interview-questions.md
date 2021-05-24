@@ -10,7 +10,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: I'm honestly not sure. I'm guessing arrays.
 
-  Researched answer: .map() parameters are value, indez and array.
+  Researched answer: .map() parameters are value, index and array.
 
 
 
@@ -18,7 +18,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: To break down in segments?
 
-  Researched answer:It is taking variables and assigning them in a specific way.
+  Researched answer: Taking an objects keys and set into variables, the pathway through an object to that particular key, unpacking the variable from the object.
 
 
 
@@ -26,7 +26,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: I dont remember but it has something to do with classes.
 
-  Researched answer: super() passes information from the contructor.
+  Researched answer: super() passes information from the parents contructor. It implies that there is a parent class.
 
 
 
@@ -34,15 +34,15 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer: I don't remember
 
-  Researched answer: It's what you use to next other components.
+  Researched answer: Must return just one JSX elements, wraps all of the content returning from a component, doesn't node to the DOM.
 
 
 
-5. What is JSX?
+5. What is JSX? 
 
   Your answer: Something that javascript uses to allow it to work within a browser?
 
-  Researched answer: It's Javascripts version of HTML
+  Researched answer: A marriage between JS and HTML, created by React devs to render HTML to the DOM inside of the JS file.
 
 
 
@@ -58,7 +58,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 Research and define the following terms to the best of your ability.
 
-1. React props: Give the ability to pass down data.
+1. React props: Give the ability to pass down data from one component to another.
 2. React lifecycle methods: There are 3 main phases that organize React.
 3. Logic/smart component:These are more complicated components.
 4. Display/dumb component: This is a more efficient component.

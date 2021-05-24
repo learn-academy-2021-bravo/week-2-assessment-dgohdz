@@ -84,7 +84,7 @@ const capWords = (array) => {
 //create a variable for the new mapped array
     let newArr = array.map(value => {
 //access the first index and capitalize the first letter for each word.
-        return value[0].toUpperCase()
+        return `value[0].toUpperCase()`
     })
     //got stuck and had trouble finding the right instruction in the syllabus.
 
